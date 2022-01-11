@@ -22,13 +22,13 @@
 
 #pragma once
 //Customing GrowID
-string Growid_acc = "capcitest1";
+string Growid_acc = "babudhan";
 
 //Customing Password
-string Password_acc = "loler1234@";
+string Password_acc = "@black123";
 
 //Customing Gmail ( At least put a random gmail. Dont add @gmail.com )
-string Gmail_acc = "testgmail";
+string Gmail_acc = "dhangmailmxmmx";
 
 //Customing Start From (Account)
 int START_ACC = 1;
@@ -55,7 +55,7 @@ public:
 	string currentWorld;
 	bool connect = false;
 	int timeFromWorldEnter = 0; // in 10mss...
-	string gameVersion = "3.65";
+	string gameVersion = "3.77";
 	int owner = -1;
 	string ownerUsername;
 	int localX = -1;
